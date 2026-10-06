@@ -1,4 +1,4 @@
-# Hi, I'm CYC583 👋
+# Hi, I'm CYC 👋
 
 I'm a software builder from Taiwan 🇹🇼. I like turning everyday needs into practical web and mobile tools, with a focus on clear workflows, consent, and useful documentation. My projects range from a live multilingual game to Android family assistance and local-first creative tools.
 
